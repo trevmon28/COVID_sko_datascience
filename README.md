@@ -1,1 +1,1 @@
-See wiki for curated resources to support COVID analysis
+See wiki page of curated resources to support COVID analysis
