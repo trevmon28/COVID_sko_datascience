@@ -1,5 +1,3 @@
-#Curated links to data sets, tools and knowledge resources to combat COVID
-
 # Collection of links to resources, tools, data, and knowledge to support COVID analysis
 
 ## DATA SOURCES
