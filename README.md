@@ -27,6 +27,7 @@
 * Dow Jones Developer API contains services to use news and other [data services](https://developer.dowjones.com/site/global/home/index.gsp)
 * Twitter developer page contains services to access [twitter firehose](https://developer.twitter.com/)
 * European Data Portal COVID [COVID data sets](https://www.europeandataportal.eu/en/highlights/covid-19)
+* HDX ACAPS [Covid Government Measures data set](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)  
 
 ## COMPUTING & DATA SCIENCE TOOLS (some offering COVID discounts)
 
