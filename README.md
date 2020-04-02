@@ -4,6 +4,7 @@
 
 * COVID-19 repo serving JHU [API on Github](https://github.com/mathdroid/covid-19-api) 
 * WHITE HOUSE page with several [data resources](https://pages.semanticscholar.org/coronavirus-research) including APIs
+* Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * WHO [data resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 * World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext.) 
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
