@@ -4,9 +4,9 @@
 
 * COVID-19 repo serving JHU [API on Github](https://github.com/mathdroid/covid-19-api) 
 * WHITE HOUSE page with several [data resources](https://pages.semanticscholar.org/coronavirus-research) including APIs
-* Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * WHO [data resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 * World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext.) 
+* Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
 * Rapid API collection of several [COVID data APIs](https://rapidapi.com/collection/coronavirus-covid-19)
 * Page that scrapes from JHU data and publishes [data in JSON](http://cvapi.zognet.net/)
@@ -28,6 +28,7 @@
 * Dow Jones Developer API contains services to use news and other [data services](https://developer.dowjones.com/site/global/home/index.gsp)
 * Twitter developer page contains services to access [twitter firehose](https://developer.twitter.com/)
 * European Data Portal COVID [COVID data sets](https://www.europeandataportal.eu/en/highlights/covid-19)
+* Premise economic and situational awareness[Covid-19 Global Impact Study](https://premise.com/covid-19)
 * HDX ACAPS [Covid Government Measures data set](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
 * Humanitarian Data Exchange (HDX) [catalog of COVID data sets](https://data.humdata.org/event/covid-19)
 
@@ -70,7 +71,10 @@
 * Preliminary report from Martin-Corral, Pentland, et al on effectiveness [social distancing strategies](https://covid-19-sds.github.io/)
 * UN Global Pulse [mapping of response to COVID applications](https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/)
 * CovidCareMap maps [hospital, ICU capacity in US](https://www.covidcaremap.org/maps/us-healthcare-system-capacity/#3.5/38/-96)
-
+* Carto [Italy mobility analysis](https://carto.com/blog/human-mobility-and-spread-of-coronavirus/)
+* Cubiq Covid [mobility index](https://www.cuebiq.com/visitation-insights-covid19/?utm_source=covid-outreach&utm_medium=homepage-banner&utm_campaign=covid-19-insights-outreach-2020)
+* Mapbox analysis of [global traffic patterns](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
+* Google [Community Mobility Reports tool](https://www.google.com/covid19/mobility/)
 
 
 ## GENERAL & COMMENTARY
@@ -100,5 +104,5 @@
 * Blog post from WB on Korean experience to [tackle COVID](https://blogs.worldbank.org/eastasiapacific/koreas-response-covid-19-early-lessons-tackling-pandemic)
 * INFORM GRI is European inter-agency framework tool set for [humanitarian and crisis response](https://drmkc.jrc.ec.europa.eu/inform-index/) 
 * ESA announces [innovation challenge for Space Response to COVID](https://business.esa.int/funding/invitation-to-tender/space-response-to-covid-19-outbreak)
-
-
+* Commentary from the Atlantic on the [inaccuracy of COVID statistics](https://www.theatlantic.com/ideas/archive/2020/03/fog-pandemic/608764/)
+** Paper by Nuria Oliver on [mobile data and COVID response](https://arxiv.org/ftp/arxiv/papers/2003/2003.12347.pdf)
