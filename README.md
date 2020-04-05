@@ -1,16 +1,20 @@
-# Collection of links to resources, tools, data, and knowledge to support COVID analysis
+# Collection of links to (un-vetted) resources, tools, data, and knowledge to support COVID analysis
 
 ## DATA SOURCES
 
 * COVID-19 repo serving JHU [API on Github](https://github.com/mathdroid/covid-19-api) 
 * WHITE HOUSE page with several [data resources](https://pages.semanticscholar.org/coronavirus-research) including APIs
 * WHO [data resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
-* World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext.) 
-* Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
+* World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext) 
+* World Bank Data COVID coverage page with [COVID related data sets, indicators, dashboard](http://datatopics.worldbank.org/universal-health-coverage/covid19/)
+* * Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
 * Rapid API collection of several [COVID data APIs](https://rapidapi.com/collection/coronavirus-covid-19)
+* Humanitarian Data Exchange (HDX) [Covid-19 data catalog](https://data.humdata.org/event/covid-19)
+* HDX ACAPS [Covid Government Measures data set](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
 * Page that scrapes from JHU data and publishes [data in JSON](http://cvapi.zognet.net/)
 * Python COVID api package installs from [JHU data](https://pypi.org/project/covid-data-api/)
+* Institute of Health Metrics and evaluation [ncov19 data set](https://github.com/beoutbreakprepared/nCoV2019)
 * LITCOVID contains link to [data set](https://www.ncbi.nlm.nih.gov/research/coronavirus/) on Covid literature
 * Dimensions page with links to publications, clinical trials [link](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=2034285255)
 * Kaggle Day Level [data set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
@@ -28,9 +32,8 @@
 * Dow Jones Developer API contains services to use news and other [data services](https://developer.dowjones.com/site/global/home/index.gsp)
 * Twitter developer page contains services to access [twitter firehose](https://developer.twitter.com/)
 * European Data Portal COVID [COVID data sets](https://www.europeandataportal.eu/en/highlights/covid-19)
-* Premise economic and situational awareness[Covid-19 Global Impact Study](https://premise.com/covid-19)
-* HDX ACAPS [Covid Government Measures data set](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
-* Humanitarian Data Exchange (HDX) [catalog of COVID data sets](https://data.humdata.org/event/covid-19)
+* Our world in data Corona Virus [testing source data](https://ourworldindata.org/coronavirus-testing-source-data)
+* Covid tracking project [lists major APIs](https://covidtracking.com/api)
 
 ## COMPUTING & DATA SCIENCE TOOLS (some offering COVID discounts)
 
@@ -44,15 +47,18 @@
 * Google developer has services for high frequency data and data augmentation, collection, geo-coding, etc see [developer tools](https://developers.google.com/products/develop)
 * World Pop platform to [access demographic data](https://www.portal.worldpop.org/demographics/)
 * Ovio has curated list of [open source software, hardware and data projects combating COVID](https://explore.ovio.org/covid-19/)
+* World Bank blog post reviews available tools for [projecting the trajectory of COVID](https://blogs.worldbank.org/developmenttalk/projecting-trajectory-covid-19-pandemic-review-available-tools)
+* Pepp-pt [privacy preserving proximity tracing](https://www.pepp-pt.org/)
 
 ## ANALYTICAL PRODUCTS
 
 * Johns Hopkins live tracking cases [dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* University of Chicago Spatial Data Center [COVID-19 state tracking](https://geodacenter.github.io/covid/)
 * Bing COVID [Map Tracker](https://www.bing.com/covid)
 * Tableau Global [Dashboard](https://www.tableau.com/covid-19-coronavirus-data-resources) of Cases
 * LinkedIn Hiring Rate indicator [here](https://www.linkedin.com/posts/guyberger_covid19-activity-6646910155525103616-tN0A/)
 * Harvard Humanitarian Initiative Live COVID Survey Results [dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZjNDhmYjAtZGQ3Zi00MDRlLTllNzctYTRjMmI4MTU5YWUyIiwidCI6IjZmZmEyMmY0LTQ1NjgtNDEwNS1hZDQzLTJlM2FkNDcyNjk1NyIsImMiOjN9)
-* Italy mobility monitoring project ISI [first report](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html) || [Second Report on social mixing](https://covid19mm.github.io/in-progress/2020/03/25/second-report.html)
+* Italy mobility monitoring project ISI [first report](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html) | [Second Report on Social Distancing](https://covid19mm.github.io/in-progress/2020/03/25/second-report.html)
 * Country COVID Dashboard for [Singapore](https://co.vid19.sg/) 
 * WorldPop report on non-pharmaceutical interventions on containment [report](https://www.worldpop.org/events/COVID_NPI)
 * NY Times [mobility analysis ](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?referringSource=articleShare) on how the virus got out
@@ -61,20 +67,25 @@
 * ESA analysis of air quality over[China](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/COVID-19_nitrogen_dioxide_over_China)
 * HealthMap [COVID dashboard](https://www.healthmap.org/covid-19/)
 * Facebook [Disease Prevention Maps](https://dataforgood.fb.com/tools/disease-prevention-maps/)
-* Safegraph dashboards of foot traffic patterns from [smartphone app data](https://www.safegraph.com/dashboard/covid19-commerce-patterns?utm_source=newsletter&utm_medium=email&utm_campaign=covid_dashboard) 
 * RS21 [Urban Health Vulnerability Index](https://covid.rs21.io/)
-* World Bank, FB, Mapbox analysis to optimize [location of testing facilities](https://datapartnership.org/updates/covid19-and-public-private-data-partnerships/?utm_content=buffer8171f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
-* Predict COVID compares country [spread against Italy](https://predictcovid.com/) 
-* Dalberg analysis includes COVID behavior, demography traits, and [risk](https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html) 
-* Mapbox is using telemetry data to [track movements in COVID crisis](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
-* Descartes Lab [mobility analysis of Seatle](https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pandemic-data-mining-underscores-importance-social-distancing-china-seattle/amp/)
-* Preliminary report from Martin-Corral, Pentland, et al on effectiveness [social distancing strategies](https://covid-19-sds.github.io/)
 * UN Global Pulse [mapping of response to COVID applications](https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/)
 * CovidCareMap maps [hospital, ICU capacity in US](https://www.covidcaremap.org/maps/us-healthcare-system-capacity/#3.5/38/-96)
+* Black Marble uses [satellite nightime lights to monitor changes in economic activity](https://earthobservatory.nasa.gov/images/146481/nighttime-images-capture-change-in-china) 
+* World Bank, FB, Mapbox analysis to optimize [location of testing facilities](https://datapartnership.org/updates/covid19-and-public-private-data-partnerships/?utm_content=buffer8171f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* Post by Sveta Milusheva on using [mobile phone data to track disease](https://blogs.worldbank.org/impactevaluations/traveling-ease-carrying-disease-using-mobile-phone-data-reduce-malaria-guest-post-sveta-milusheva?deliveryName=DM58160)
 * Carto [Italy mobility analysis](https://carto.com/blog/human-mobility-and-spread-of-coronavirus/)
 * Cubiq Covid [mobility index](https://www.cuebiq.com/visitation-insights-covid19/?utm_source=covid-outreach&utm_medium=homepage-banner&utm_campaign=covid-19-insights-outreach-2020)
 * Mapbox analysis of [global traffic patterns](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
 * Google [Community Mobility Reports tool](https://www.google.com/covid19/mobility/)
+* Dalberg analysis includes COVID behavior, demography traits, and [risk](https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html) 
+* Mapbox is using telemetry data to [track movements in COVID crisis](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
+* Descartes Lab [mobility analysis of Seatle](https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pandemic-data-mining-underscores-importance-social-distancing-china-seattle/amp/)
+* Carto [Italy mobility analysis](https://carto.com/blog/human-mobility-and-spread-of-coronavirus/)
+* Cubiq Covid [mobility index](https://www.cuebiq.com/visitation-insights-covid19/?utm_source=covid-outreach&utm_medium=homepage-banner&utm_campaign=covid-19-insights-outreach-2020)
+* Mapbox analysis of [global traffic patterns](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
+* Google [Community Mobility Reports tool](https://www.google.com/covid19/mobility/)
+* Worldometer [COVID-19 tracking dashboard](https://www.worldometers.info/coronavirus/#countries)
+* IHME tracks [hospital beds, ventilators and more](https://covid19.healthdata.org/)
 
 
 ## GENERAL & COMMENTARY
@@ -96,13 +107,14 @@
 * World Bank post summarizes it actions on COVID, including 14 billion [Fast Track Facility](https://blogs.worldbank.org/voices/march-21-2020-end-week-update-focus-covid-19) 
 * BuzzFeed [traffic maps](https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/peteraldhous/coronavirus-traffic-maps-cities)
 * How US states are doing with respect to [social distancing](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html)
-* Kaggle tutorial on topic modeling [text analytics for COVID](https://www.kaggle.com/danielwolffram/topic-modeling-finding-related-articles)
-* Rand infectious disease [vulnerability hot spots](https://www.rand.org/pubs/research_reports/RR1605.html)
 * Data2x collection of [gender related resources for COVID](https://data2x.org/resource-center/gender-and-data-resources-related-to-covid-19/)
 * Github post with collection of collaborative [COVID projects and resources](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)
 * CoVID tracking project of [US COVID test cases](https://covidtracking.com/)
 * Blog post from WB on Korean experience to [tackle COVID](https://blogs.worldbank.org/eastasiapacific/koreas-response-covid-19-early-lessons-tackling-pandemic)
 * INFORM GRI is European inter-agency framework tool set for [humanitarian and crisis response](https://drmkc.jrc.ec.europa.eu/inform-index/) 
 * ESA announces [innovation challenge for Space Response to COVID](https://business.esa.int/funding/invitation-to-tender/space-response-to-covid-19-outbreak)
-* Commentary from the Atlantic on the [inaccuracy of COVID statistics](https://www.theatlantic.com/ideas/archive/2020/03/fog-pandemic/608764/)
-** Paper by Nuria Oliver on [mobile data and COVID response](https://arxiv.org/ftp/arxiv/papers/2003/2003.12347.pdf)
+* UN Statistics [COVID-19 response](https://covid-19-response.unstatshub.org/)
+* Harvard Ash Center publishes [good GIS government practices for COVID-19 Response](https://medium.com/covid-19-public-sector-resources/covid-19-response-gis-best-practices-in-local-government-33bdfd5a4da6)
+* Spatial Agent [knowledge repository on covid](http://spatialagent.org/COVID19/)
+* OECD-OPCI open contribution [spreadsheet with Government solutions to COVID](https://docs.google.com/spreadsheets/d/1dg8RBuTpzyL0Ag7IQ_FIYZaN6Rltc0T7x6ppj7MuNDo/edit#gid=0)
+* ESA sentinal launches [Covid19 custom script contest](https://www.linkedin.com/posts/caubrecht_custom-script-contest-covid-19-edition-activity-6652319639718150144-oogc/)
