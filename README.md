@@ -34,9 +34,13 @@
 * European Data Portal COVID [COVID data sets](https://www.europeandataportal.eu/en/highlights/covid-19)
 * Our world in data Corona Virus [testing source data](https://ourworldindata.org/coronavirus-testing-source-data)
 * Covid tracking project [lists major APIs](https://covidtracking.com/api)
+* GDELT [COVID19 geographic news data set](https://blog.gdeltproject.org/announcing-a-massive-new-geographic-news-database-of-the-locations-mentioned-in-covid-19-news-coverage/)
+* Facebook Data for Good [disease prevention and connectedness maps](https://about.fb.com/news/2020/04/data-for-good/amp/)
 
-## COMPUTING & DATA SCIENCE TOOLS (some offering COVID discounts)
+## COMPUTING & DATA SCIENCE TOOLS, SERVICES (some offering COVID discounts)
 
+* List of software vendors providing [COVID19 pro-bono services](https://docs.google.com/spreadsheets/d/1UDogvfuysxFL2tAzokLIwwwzCkQP30L_SRsL2cKE-p8/htmlview)
+* Flowminder COVID19 [resources for mobile analytics](https://covid19.flowminder.org/)
 * Splunk free tool for COVID dashboards on [Github](https://github.com/splunk/corona_virus)
 * Carto free mapping COVID [services](https://carto.com/blog/carto-free-for-fight-against-coronavirus/)
 * ESRI GIS COVID hub includes [GIS and data ](https://coronavirus-resources.esri.com/?adumkts=industry_solutions&aduse=local_state&aduc=email&adum=list&utm_Source=email&aduca=mi_smart_communities&aduco=coronavirus_hub_resources&adut=950533&adupt=awareness&sf_id=7015x000000iQIAAA2&aducp=operational_second_body_text)
@@ -49,6 +53,9 @@
 * Ovio has curated list of [open source software, hardware and data projects combating COVID](https://explore.ovio.org/covid-19/)
 * World Bank blog post reviews available tools for [projecting the trajectory of COVID](https://blogs.worldbank.org/developmenttalk/projecting-trajectory-covid-19-pandemic-review-available-tools)
 * Pepp-pt [privacy preserving proximity tracing](https://www.pepp-pt.org/)
+* Python pip install [covid-19 tools](https://pypi.org/project/cord-19-tools/)
+* FB three tool for COVID19, [including survey](https://about.fb.com/news/2020/04/data-for-good/amp/)
+* Kaggle python notebook with COVID19 relevant [feature engineering methods](https://www.kaggle.com/uvinetz/week-2-submission)
 
 ## ANALYTICAL PRODUCTS
 
@@ -86,7 +93,14 @@
 * Google [Community Mobility Reports tool](https://www.google.com/covid19/mobility/)
 * Worldometer [COVID-19 tracking dashboard](https://www.worldometers.info/coronavirus/#countries)
 * IHME tracks [hospital beds, ventilators and more](https://covid19.healthdata.org/)
-
+* Swiss dashboard with [cases, fatalities and resource indices](https://covid.visium.ch/)
+* Carto dashboard [report for United States](https://carto.com/blog/location-data-streams-in-fight-against-covid19/)
+* GDELT Big Query [COVID geographic news](https://blog-gdeltproject-org.cdn.ampproject.org/c/s/blog.gdeltproject.org/one-click-mapping-of-covid-19-news-coverage-with-bigquery-carto/amp/)
+* USC Melody Lab report on [COVID19 related twitter sentiment](https://usc-melady.github.io/COVID-19-Tweet-Analysis/index.html) 
+* COVID19 South Africa [vulnerability indicators](https://sarva.saeon.ac.za/covid-19/) 
+* COVID [Community Vulnerability Index](https://precisionforcovid.org/)
+* Kaggle [forecasting project with Notebook](https://www.kaggle.com/rohanrao/covid-19-w2-lgb-mad/notebook)
+* HDX [dashboard](https://data.humdata.org/event/covid-19)
 
 ## GENERAL & COMMENTARY
 
@@ -118,3 +132,18 @@
 * Spatial Agent [knowledge repository on covid](http://spatialagent.org/COVID19/)
 * OECD-OPCI open contribution [spreadsheet with Government solutions to COVID](https://docs.google.com/spreadsheets/d/1dg8RBuTpzyL0Ag7IQ_FIYZaN6Rltc0T7x6ppj7MuNDo/edit#gid=0)
 * ESA sentinal launches [Covid19 custom script contest](https://www.linkedin.com/posts/caubrecht_custom-script-contest-covid-19-edition-activity-6652319639718150144-oogc/)
+* Post on Location Analytics [post-Covid19 agenda for readiness for next pandemic](https://carto.com/blog/location-analytics-a-roadmap-to-post-covid19/)
+* World Bank blog post offers review of available [tools for projecting trajectory of Covid19](https://blogs.worldbank.org/developmenttalk/projecting-trajectory-covid-19-pandemic-review-available-tools?cid=dec_tt_research_en_ext)
+* GSMA COVID19 [privacy guidelines](https://www.gsma.com/publicpolicy/resources/covid-19-privacy-guidelines)
+* DataPop Alliance Global South [strategic response action plan for COVID19](https://www.linkedin.com/pulse/data-pop-alliance-covid-19-global-south-response-letouz%25C3%25A9-phd/?trackingId=KZDXArdxSs%2BLs4LxIV4mIQ%3D%3D)
+* World Bank blog post on using [mobile phone surveys for understanding COVID19 impact](https://blogs.worldbank.org/impactevaluations/mobile-phone-surveys-understanding-covid-19-impacts-part-i-sampling-and-mode)
+* Paris21 Policy Brief on [COVID19 response for National Statistical Systems](https://paris21.org/news-center/news/New-Policy-Brief-COVID-19)
+* World Bank policy brief on [two tests to support faster COVID19 economic recovery](http://documents.worldbank.org/curated/en/766471586360658318/How-Two-Tests-Can-Help-Contain-COVID-19-and-Revive-the-Economy)
+* Olivier Blanchard talk on how to [respond to COVID19 economic recovery](https://www.youtube.com/watch?v=9jSyhtYq_ME&feature=youtu.be)
+* Google DeepMind [response to COVID19](https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/)
+* World Bank report the [Economy in the time of COVID19](https://openknowledge.worldbank.org/handle/10986/33555)
+* Fraym post on using local data to [optimize messaging channels for COVID19](https://fraym.io/covid_comms_data/)
+* COVID [impact survey}(https://www.covid-impact.org/)
+* Lean In report on Corona Virus is [financial crisis for women](https://leanin-org.cdn.ampproject.org/c/s/leanin.org/article/the-coronavirus-is-a-financial-crisis-for-women?amp=1)
+* Apple and Google Partner on [contact tracing technology](https://www.blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/?)
+* Financial Times [big data and the privacy challenge](https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7cfad020-78c4-11ea-9840-1b8019d9a987)
