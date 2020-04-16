@@ -7,7 +7,7 @@
 * WHO [data resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 * World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext) 
 * World Bank Data COVID coverage page with [COVID related data sets, indicators, dashboard](http://datatopics.worldbank.org/universal-health-coverage/covid19/)
-* * Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
+* Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
 * Rapid API collection of several [COVID data APIs](https://rapidapi.com/collection/coronavirus-covid-19)
 * Humanitarian Data Exchange (HDX) [Covid-19 data catalog](https://data.humdata.org/event/covid-19)
@@ -147,3 +147,4 @@
 * Lean In report on Corona Virus is [financial crisis for women](https://leanin-org.cdn.ampproject.org/c/s/leanin.org/article/the-coronavirus-is-a-financial-crisis-for-women?amp=1)
 * Apple and Google Partner on [contact tracing technology](https://www.blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/?)
 * Financial Times [big data and the privacy challenge](https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7cfad020-78c4-11ea-9840-1b8019d9a987)
+* Govlab post on [mapping health, economic neeeds for COVID response and recovery](https://medium.com/data-policy/mapping-how-data-can-help-address-covid19-a7be2e631aec)
