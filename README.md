@@ -2,12 +2,16 @@
 
 ## DATA SOURCES
 
+* World Bank Covid19 [indicators of interest for baseline](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026)
 * COVID-19 repo serving JHU [API on Github](https://github.com/mathdroid/covid-19-api) 
 * WHITE HOUSE page with several [data resources](https://pages.semanticscholar.org/coronavirus-research) including APIs
 * WHO [data resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 * World Bank Data Hub collection of [data sets for COVID](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2026&cid=dec_tt_data_en_ext) 
 * World Bank Data COVID coverage page with [COVID related data sets, indicators, dashboard](http://datatopics.worldbank.org/universal-health-coverage/covid19/)
+* AIDR Artificial Intelligence for Digital Response [includes Twitter coverage map](http://aidr.qcri.org/)
 * Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
+* ACAPS COVID19 [Government Measures data sets](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
+* Kaggle [curated data set contributions](https://www.kaggle.com/covid-19-contributions)
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
 * Rapid API collection of several [COVID data APIs](https://rapidapi.com/collection/coronavirus-covid-19)
 * Humanitarian Data Exchange (HDX) [Covid-19 data catalog](https://data.humdata.org/event/covid-19)
@@ -40,6 +44,10 @@
 ## COMPUTING & DATA SCIENCE TOOLS, SERVICES (some offering COVID discounts)
 
 * List of software vendors providing [COVID19 pro-bono services](https://docs.google.com/spreadsheets/d/1UDogvfuysxFL2tAzokLIwwwzCkQP30L_SRsL2cKE-p8/htmlview)
+* AWS cloud [high performance computing credits for COVID](https://aws.amazon.com/hpc/consortium/)
+* Google [cloud credits for COVID research](https://edu.google.com/programs/credits/research/?modal_active=none)
+* Decartes lab offers [free services for COVID Research](https://medium.com/descarteslabs-team/apply-for-our-impact-science-program-and-get-your-hands-on-the-worlds-data-af355f8d11c0)
+* Xcede [high performance computing consortium for COVID](https://www.xsede.org/covid19-hpc-consortium)
 * Flowminder COVID19 [resources for mobile analytics](https://covid19.flowminder.org/)
 * Splunk free tool for COVID dashboards on [Github](https://github.com/splunk/corona_virus)
 * Carto free mapping COVID [services](https://carto.com/blog/carto-free-for-fight-against-coronavirus/)
@@ -56,6 +64,7 @@
 * Python pip install [covid-19 tools](https://pypi.org/project/cord-19-tools/)
 * FB three tool for COVID19, [including survey](https://about.fb.com/news/2020/04/data-for-good/amp/)
 * Kaggle python notebook with COVID19 relevant [feature engineering methods](https://www.kaggle.com/uvinetz/week-2-submission)
+* Open Source code from DJ Patil project for [COVID19 vulnerability/preparedeness forecasting](https://github.com/HopkinsIDD/COVIDScenarioPipeline)
 
 ## ANALYTICAL PRODUCTS
 
@@ -101,6 +110,15 @@
 * COVID [Community Vulnerability Index](https://precisionforcovid.org/)
 * Kaggle [forecasting project with Notebook](https://www.kaggle.com/rohanrao/covid-19-w2-lgb-mad/notebook)
 * HDX [dashboard](https://data.humdata.org/event/covid-19)
+* WEF COVID action [platform has a few solution tracks](https://www.weforum.org/platforms/covid-action-platform)
+* FAO food security [monitoring tool of tweets and text](https://datalab.review.fao.org/)
+* DataPop Alliance [Covid19 Observatory](https://datapopalliance.org/c19observatory/)
+* MIT C19observatory in [collaboration with World Bank](https://c19observatory.mit.edu/)
+* Kaggle tool to curate [latest research papers on COVID19](https://covid19primer.com/dashboard)
+* Unacast [social distancing scorecard](https://www.unacast.com/covid19/social-distancing-scoreboard)
+* Apple [Mobility Trends Report](https://www.apple.com/covid19/mobility)
+* WorldPop [population and road network modelling for COVID19 strategies](https://www.nature.com/articles/s41598-018-22969-4)
+* BRCK Moja [COVID19 dashboard of African countries](https://covid19.brck.com/)
 
 ## GENERAL & COMMENTARY
 
@@ -147,4 +165,12 @@
 * Lean In report on Corona Virus is [financial crisis for women](https://leanin-org.cdn.ampproject.org/c/s/leanin.org/article/the-coronavirus-is-a-financial-crisis-for-women?amp=1)
 * Apple and Google Partner on [contact tracing technology](https://www.blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/?)
 * Financial Times [big data and the privacy challenge](https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7cfad020-78c4-11ea-9840-1b8019d9a987)
+* Vox summary of [major COVID19 response plans](https://www.vox.com/2020/4/10/21215494/coronavirus-plans-social-distancing-economy-recession-depression-unemployment)
+* Hackclub build for [COVID19 Global Hackathon](https://covidglobalhackathon.com/)
+* NESTA guide on [crowdsourcing ideas for COVID19](https://www.nesta.org.uk/blog/crowdsourcing-ideas-combat-covid-19/?utm_source=Nesta+Weekly+Newsletter&utm_campaign=e99dadbc15-EMAIL_CAMPAIGN_2020_04_13_12_01&utm_medium=email&utm_term=0_d17364114d-e99dadbc15-182056957)
+* COVID19 [Business Pivot Challenge](https://www.openideo.com/challenge-briefs/covid-19-business-pivot-challenge?utm_source=email&utm_medium=oi%2Bmailchimp&utm_campaign=covid%2Bbizpivot%2Bbrief)
 * Govlab post on [mapping health, economic neeeds for COVID response and recovery](https://medium.com/data-policy/mapping-how-data-can-help-address-covid19-a7be2e631aec)
+* Global AI Ethics Consortium [note on COVID](https://ieai.mcts.tum.de/global-ai-ethics-consortium/)
+* UN Innovation Network [collection of COVID Response initiatives](https://drive.google.com/file/d/1andWztlz4o2qBtC8gGuMUEsL6pB1LSCP/view)
+* Marc Andreeson's post on [its time to build for COVID19 response](https://a16z.com/2020/04/18/its-time-to-build/)
+* Data-Smart [solutions gallery on government Covid19 dashboards](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search?f%5B0%5D=issue_areas%3A64&f%5B1%5D=visualization_type%3ADashboard)
