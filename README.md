@@ -11,6 +11,7 @@
 * AIDR Artificial Intelligence for Digital Response [includes Twitter coverage map](http://aidr.qcri.org/)
 * Covid Data Exchange is a public-private [repository of data sets to combat COVID-19](https://www.covid19-dataexchange.org/)
 * ACAPS COVID19 [Government Measures data sets](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
+* Healthsites data [healthsites.io](https://healthsites.io/)
 * Kaggle [curated data set contributions](https://www.kaggle.com/covid-19-contributions)
 * ncov2019 data set from [Institute of Health Metrics and evaluation](https://github.com/beoutbreakprepared/nCoV2019)
 * Rapid API collection of several [COVID data APIs](https://rapidapi.com/collection/coronavirus-covid-19)
@@ -40,6 +41,8 @@
 * Covid tracking project [lists major APIs](https://covidtracking.com/api)
 * GDELT [COVID19 geographic news data set](https://blog.gdeltproject.org/announcing-a-massive-new-geographic-news-database-of-the-locations-mentioned-in-covid-19-news-coverage/)
 * Facebook Data for Good [disease prevention and connectedness maps](https://about.fb.com/news/2020/04/data-for-good/amp/)
+* SHRUG [Covid19 data set for India](http://www.devdatalab.org/covid)
+* Enigma [small business data for COVID](https://www.enigma.com/covid-19)
 
 ## COMPUTING & DATA SCIENCE TOOLS, SERVICES (some offering COVID discounts)
 
@@ -65,6 +68,13 @@
 * FB three tool for COVID19, [including survey](https://about.fb.com/news/2020/04/data-for-good/amp/)
 * Kaggle python notebook with COVID19 relevant [feature engineering methods](https://www.kaggle.com/uvinetz/week-2-submission)
 * Open Source code from DJ Patil project for [COVID19 vulnerability/preparedeness forecasting](https://github.com/HopkinsIDD/COVIDScenarioPipeline)
+* AWS machine [learning search for COVID19](https://aws.amazon.com/blogs/publicsector/aws-launches-machine-learning-enabled-search-capabilities-covid-19-dataset/)
+* NLU tool by google to [search scientific COVID literature](https://ai.googleblog.com/2020/05/an-nlu-powered-tool-to-explore-covid-19.html?m=1)
+* Corona [Data Scraper from Carto](https://coronadatascraper.com/)
+* Carto [colab notebook to create visuals](https://colab.research.google.com/drive/19vITLUZTwN14l0FR30azPjnu4ZxP87Mr)
+* World Bank repo from [DIME for developing COVID mobility indicators](https://github.com/worldbank/covid-mobile-data)
+* World Bank [development partnerships repository of mobility data notebooks](https://datapartnership.org/updates/understanding-mobility-during-social-distancing/) 
+* Spatial [coverage and characteristics of mobility data providers](https://tab.worldbank.org/#/site/WBG/views/Mobilitydataproviders/Bycountry?:iid=1)
 
 ## ANALYTICAL PRODUCTS
 
@@ -119,6 +129,9 @@
 * Apple [Mobility Trends Report](https://www.apple.com/covid19/mobility)
 * WorldPop [population and road network modelling for COVID19 strategies](https://www.nature.com/articles/s41598-018-22969-4)
 * BRCK Moja [COVID19 dashboard of African countries](https://covid19.brck.com/)
+* Arxiv paper on [social distancing strategies](https://arxiv.org/abs/2004.07052)
+* Ghana office of statistics use of [mobile data to inform COVID19 policy actions](https://statsghana.gov.gh/gsspublications.php?category=MTkwMDE4MjI2Ny4xMDg=/webstats/90r897632o)
+* Oxford [Corona virus response tool](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 
 ## GENERAL & COMMENTARY
 
@@ -174,3 +187,10 @@
 * UN Innovation Network [collection of COVID Response initiatives](https://drive.google.com/file/d/1andWztlz4o2qBtC8gGuMUEsL6pB1LSCP/view)
 * Marc Andreeson's post on [its time to build for COVID19 response](https://a16z.com/2020/04/18/its-time-to-build/)
 * Data-Smart [solutions gallery on government Covid19 dashboards](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search?f%5B0%5D=issue_areas%3A64&f%5B1%5D=visualization_type%3ADashboard)
+* Zuckerberg commentary on where [we go with data post COVID19](https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/04/20/how-data-can-aid-fight-against-covid-19/?outputType=amp)
+* How digital health data [from devices can help monitor COVID19](https://www.washingtonpost.com/opinions/2020/04/10/how-digital-data-collection-can-help-track-covid-19-cases-real-time/?_gl=1*rw28zh*_ga*NGN5Sy1Da2N6NEl4WEFJZlFUOVBHUTlOU2VyVkJjQkZ6d29LLVM4X0s3NXd0akthQ3NUMDBLREpPS2ZTT0hwQw)
+* Positive Deviants approach toward [informing COVID preparedness strategies](https://medium.com/@dppd/positive-deviance-a-data-powered-approach-to-the-covid-19-response-aced5277099f)
+*UMD and Facebook partner to [collect COVID symptom data](https://today.umd.edu/articles/maryland-experts-facebook-partner-gather-global-covid-19-symptom-data-8d57d9ca-03f2-4bf6-be7a-4c337f690264)
+* GRID3 [response to Covid in Africa](https://grid3.org/news/african-govts-utilise-grid3-data-in-response-to-covid-19)
+* Experts Action Plan from [Georgetown for policy response](https://gumc.georgetown.edu/news-release/top-global-health-experts-release-action-plan-covid-19-a-global-pandemic-demands-a-global-response/)
+* MIT's project [safe-map weekly plan](https://docs.google.com/document/d/1anyoy0_49FjIHrguvQtwUemkAOYFDVRhSv4pPi0fXLE/mobilebasic#)
