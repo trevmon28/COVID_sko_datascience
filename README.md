@@ -43,6 +43,7 @@
 * Facebook Data for Good [disease prevention and connectedness maps](https://about.fb.com/news/2020/04/data-for-good/amp/)
 * SHRUG [Covid19 data set for India](http://www.devdatalab.org/covid)
 * Enigma [small business data for COVID](https://www.enigma.com/covid-19)
+* COVID-Q [dataset of questions about COVID](https://madewithml.com/projects/1236/covid-q-a-dataset-of-1690-questions-about-covid-19/)
 
 ## COMPUTING & DATA SCIENCE TOOLS, SERVICES (some offering COVID discounts)
 
@@ -132,6 +133,11 @@
 * Arxiv paper on [social distancing strategies](https://arxiv.org/abs/2004.07052)
 * Ghana office of statistics use of [mobile data to inform COVID19 policy actions](https://statsghana.gov.gh/gsspublications.php?category=MTkwMDE4MjI2Ny4xMDg=/webstats/90r897632o)
 * Oxford [Corona virus response tool](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
+* Fraym [vulnerability maps in off-grid solar sector](https://fraym.io/impact_of_covid19_planning/?utm_source=socialpost&utm_medium=socialpost&utm_campaign=socialpost)
+* Facebook COVID [survey uses population data for post-stratification](https://covid-survey.dataforgood.fb.com/survey_and_map_data.html) 
+* European Space Agency [Rapid Action on Covid and EO](https://race.esa.int/) 
+* Alibaba Covid19 [Global Economic Pandemic Tracker](https://www.luohanacademy.com/PET) 
+* Economic Tracker [Rav Chetty dashboard](https://www.tracktherecovery.org/)
 
 ## GENERAL & COMMENTARY
 
@@ -194,3 +200,10 @@
 * GRID3 [response to Covid in Africa](https://grid3.org/news/african-govts-utilise-grid3-data-in-response-to-covid-19)
 * Experts Action Plan from [Georgetown for policy response](https://gumc.georgetown.edu/news-release/top-global-health-experts-release-action-plan-covid-19-a-global-pandemic-demands-a-global-response/)
 * MIT's project [safe-map weekly plan](https://docs.google.com/document/d/1anyoy0_49FjIHrguvQtwUemkAOYFDVRhSv4pPi0fXLE/mobilebasic#)
+* Mary Meeker [Corona Virus report on industry implications](https://www.axios.com/mary-meeker-coronavirus-trends-report-0690fc96-294f-47e6-9c57-573f829a6d7c.html)
+* Yale study on [whether Low Income countries impose the same lockdown criteria](https://som.yale.edu/sites/default/files/mushifiq-howell-v2.pdf)
+* Decide Health effort [Comparing COVID models](https://decidehealth.world/CMCC)
+* Allen Institute for AI [COVID19 Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+* Harvard Data Science Review [special issue on COVID](https://hdsr.mitpress.mit.edu/specialissue1)
+* Fraym post on decision to [open its data](https://www.wbdynamics.com/covid-19-underscores-need-for-data-philanthropy/?utm_source=socialpost&utm_medium=socialpost&utm_campaign=socialpost)
+* Govlab [Data4Covid19 Hub](https://data4covid19.org/)
